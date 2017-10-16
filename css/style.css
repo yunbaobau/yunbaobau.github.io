@@ -151,3 +151,10 @@ body {
 .text h1 {
   font-size: 1.4em;
 }
+.bgm {
+  color: #8b6a60;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+}
